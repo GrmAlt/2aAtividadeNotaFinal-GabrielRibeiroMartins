@@ -1,0 +1,11 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.list-group-item:hover {
+  background-color: #f8f9fa;
+}
+
+.text-decoration-line-through {
+  text-decoration: line-through;
+}
